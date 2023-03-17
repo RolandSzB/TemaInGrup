@@ -5,14 +5,17 @@
     width: 150px;
     height: 200px;
     display: inline-block;
-    margin-right: 10px; 
+    margin: 10px; 
   }
   .littleCard{
     border-radius: 10px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    transition: 0.3s;
+    background-color: rgb(192, 193, 193);
     width: 120px;
     height: 50px;
+  }
+  .iconCard{
+    border-radius: 10px;
+
   }
   
   .card:hover {
@@ -22,3 +25,28 @@
   .container {
     padding: 2px 16px;
   }
+  .red{ 
+    color: red;
+    background-color: lightpink;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .purple{ 
+    color: purple;
+    background-color: rgb(255, 85, 224);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .yellow{ 
+    color: rgb(255, 208, 0);
+    background-color: rgb(235, 254, 151);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .blue{ 
+    color: blue;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
