@@ -50,16 +50,19 @@
   right: 40px;
   display: flex;
   
-  
-  
 
 }
 
-.textPosition {
+.titlePosition {
 
   position: relative; 
   top: 5px;
   right: 20px;
+
+  
+}
+
+.textPosition {
 
   
 }
