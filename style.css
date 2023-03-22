@@ -11,7 +11,7 @@
 .squareOne {
 
   display: flex;
-  background-color: rgb(238, 18, 18);
+  background-color: white;
   width: 200px;
   height: 150px;
   margin: auto;
