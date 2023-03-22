@@ -1,0 +1,41 @@
+.surface {
+
+    display: flex;
+    background-color: #F8F9FB;
+    width: 500px;
+    height: 150px;
+   
+  }
+
+.squareOne {
+
+  display: flex;
+  background-color: rgb(238, 18, 18);
+  width: 100px;
+  height: 125px;
+  margin: auto;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.squareTwo {
+
+  display: flex;
+  background-color: rgb(238, 18, 18);
+  width: 100px;
+  height: 125px;
+  margin: auto;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.squareThree {
+
+  display: flex;
+  background-color: rgb(238, 18, 18);
+  width: 100px;
+  height: 125px;
+  margin: auto;
+  border-radius: 10px;
+  justify-content: center;
+}
