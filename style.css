@@ -63,7 +63,7 @@
   
 }
 
-.textPosition {
+.textPositionSlack {
 
 position: absolute;
 top: 75px;
@@ -72,6 +72,13 @@ color: grey;
 display: flex;
 
 }
+
+.textPositionTrello {
+
+  text-align: center;
+  color: grey;
+
+  }
 
 .circleBlue {
 
@@ -93,4 +100,18 @@ display: flex;
   top: 11px;
   right: 13px;
   
+}
+
+.titlePositionTrello {
+
+  position: absolute;
+  left: 70px;
+  bottom: 5px;
+  display: flex;
+
+
+}
+
+.titlePositionWapp {
+
 }
